@@ -7,8 +7,8 @@
  # Projects
  # 1. Apple Sales Analysis
   
-   <h3>Objective</h3>: Analyze Apple product sales data to understand market trends and revenue distribution.
-    <h3>Key Insights</h3>:
+   <h3>Objective : </h3>Analyze Apple product sales data to understand market trends and revenue distribution.
+    <h3>Key Insights : </h3>
    Yearly sales trends<br>
    Most profitable products<br>
    Regional sales variations<br>
