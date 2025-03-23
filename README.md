@@ -7,9 +7,9 @@
  # Projects
  # 1. Apple Sales Analysis
   
-   # Objective: Analyze Apple product sales data to understand market trends and revenue distribution.
-   # Key Insights:
-   Yearly sales trends
-   Most profitable products
-   Regional sales variations
-   Tools Used: Pandas, Matplotlib, Seaborn
+   <h4>Objective<h4></h4>: Analyze Apple product sales data to understand market trends and revenue distribution.
+    <h3>Key Insights</h3>:
+   Yearly sales trends<br>
+   Most profitable products<br>
+   Regional sales variations<br>
+   <h3>Tools Used:</h3>Pandas, Matplotlib, Seaborn
