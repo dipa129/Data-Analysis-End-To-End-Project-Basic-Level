@@ -14,7 +14,7 @@
    Regional sales variations<br>
    <h3>Tools Used:</h3>Pandas, Matplotlib, Seaborn
 
-  # 2. 🍽️ Zomato Data Analysis Project
+  # 2. 🍽️ Zomato Data Analysis 
 
 This project performs an exploratory data analysis (EDA) on a Zomato restaurant dataset to extract insights about restaurant types, ratings, cost preferences, and online ordering behavior in India.
 
@@ -70,7 +70,7 @@ The dataset used is `Zomato data.csv` and contains details such as:
    git clone https://github.com/yourusername/zomato-analysis.git
    cd zomato-analysis
 
-# 3.🛒 Blinkit Data Analysis Project
+# 3.🛒 Blinkit Data Analysis 
 
 This project explores sales and product insights from Blinkit's dataset, focusing on item types, fat content, and overall sales performance.
 
