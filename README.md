@@ -70,7 +70,7 @@ The dataset used is `Zomato data.csv` and contains details such as:
    git clone https://github.com/yourusername/zomato-analysis.git
    cd zomato-analysis
 
-### 3.🛒 Blinkit Data Analysis Project
+# 3.🛒 Blinkit Data Analysis Project
 
 This project explores sales and product insights from Blinkit's dataset, focusing on item types, fat content, and overall sales performance.
 
