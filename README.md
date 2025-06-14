@@ -69,3 +69,37 @@ The dataset used is `Zomato data.csv` and contains details such as:
    ```bash
    git clone https://github.com/yourusername/zomato-analysis.git
    cd zomato-analysis
+
+### 3.🛒 Blinkit Data Analysis Project
+
+This project explores sales and product insights from Blinkit's dataset, focusing on item types, fat content, and overall sales performance.
+
+## 📌 Objectives
+
+- Clean and preprocess retail sales data
+- Derive key performance metrics: total sales, average sales, ratings, item counts
+- Analyze sales by fat content and item type
+- Visualize data using pie charts and bar plots
+
+## 📊 Tools Used
+
+- **Pandas** – Data manipulation
+- **NumPy** – Numerical operations
+- **Matplotlib & Seaborn** – Data visualization
+
+## 📈 Key Insights
+
+- Identified top-performing item types by sales
+- Standardized fat content labels (e.g., `LF` → `Low Fat`)
+- Calculated and visualized:
+  - Total and average sales
+  - Average product rating
+  - Sales breakdown by fat content and item type
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/blinkit-analysis.git
+   cd blinkit-analysis
+   
